@@ -21,8 +21,7 @@ function GridCards(props) {
                 </div>
             </Col>
         )
-    }
-    
+    }   
 }
 
 export default GridCards
